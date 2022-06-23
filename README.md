@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mountaindriver
-- 👀 I’m interested in Bikes,Dogs, and FOOD:)
+- 👀 I’m interested in becoming better at coidng
 - 🌱 I’m currently learning all the code
 - 💞️ I’m looking to collaborate on Projects for my protfolio
 - 📫 How to reach me ... hmm?
