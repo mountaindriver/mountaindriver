@@ -1,10 +1,3 @@
 - 👋 Hi, I’m Lucas @mountaindriver
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking for a job working as a junior web developer
-- 📫 Reach me at lsfreigenberg@outlook.com or at https://www.linkedin.com/in/lucas-freigenberg-539338134/
-
-<!---
-mountaindriver/mountaindriver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+-  I create a great websites and web applications by building a more intuitive user experience for clients.  My peers know me as a dedicated worker and problem solver whose focused on mobile-first design and development. I have been awarded a certificate in Full Stack Development from the University of Utah, because of my skills in the MERN stack creating many responsive websites and application. Every project I do is aimed to create a simplistic and positive user experience.
